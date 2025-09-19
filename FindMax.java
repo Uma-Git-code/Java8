@@ -1,5 +1,6 @@
 public class FindMax {
     public static void main(String aa[]){
-        System.out.println("Hello Lambda");
+        System.out.println("Hello Lambdass");
     }
 }
+
